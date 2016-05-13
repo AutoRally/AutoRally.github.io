@@ -3,8 +3,8 @@ main:
   - title: "Platform Specs"
     url: /specs/
   
-  - title: "About"
-    url: /about/
+  - title: "How to Build"
+    url: /build/
 
   - title: "Gallery"
     url: /gallery/
