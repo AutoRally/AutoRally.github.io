@@ -8,6 +8,11 @@ header:
   caption: "Photo credit: Rob Felt, Research Horizons"
   cta_label: "Article"
   cta_url: "http://www.rh.gatech.edu/features/rolling-robots"
+
+image:
+  feature: http://www.rh.gatech.edu/sites/rh.gatech.edu/files/images/features/inline-images/rollinrobots_testrack.jpg
+  credit: Rob Felt
+
 ---
 
 ![Rolling Robots Image](http://www.rh.gatech.edu/sites/rh.gatech.edu/files/images/features/inline-images/rollinrobots_testrack.jpg)

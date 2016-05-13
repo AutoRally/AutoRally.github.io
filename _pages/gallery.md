@@ -37,6 +37,6 @@ gallery:
 
 ---
 
-<iframe align="middle" src="https://www.youtube.com/embed/FbcGs-XoiUw" frameborder="0"> </iframe>
+<iframe width="1920" height="1080" src="https://www.youtube.com/embed/FbcGs-XoiUw" frameborder="0" align="middle"> </iframe>
 
 {% include gallery id="gallery" caption="" class="full" %}

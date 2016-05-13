@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Posts
+author_profile: true
 permalink: /year-archive/
 
 ---
