@@ -1,5 +1,6 @@
 ---
-layout:single
-title: "Specs"
+layout: single
+title: Specs
 permalink: /specs/
+
 ---
