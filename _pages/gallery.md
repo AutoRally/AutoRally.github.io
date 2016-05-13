@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Gallery"
 excerpt: "Pictures and stuff"
 permalink: /gallery/
