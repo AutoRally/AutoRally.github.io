@@ -4,6 +4,9 @@ title: "Gallery"
 excerpt: "Pictures and stuff"
 permalink: /gallery/
 
+header:
+  overlay_image: autorally_platform_header2.jpg
+
 gallery:
   - url: autorally_platform_gallery.jpg
     image_path: autorally_platform_gallery.jpg
