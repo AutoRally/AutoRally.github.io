@@ -38,6 +38,6 @@ gallery:
 
 ---
 
-<iframe width="1280" height="720" align="center" src="https://www.youtube.com/embed/FbcGs-XoiUw" frameborder="0"> </iframe>
+<iframe width="1280" height="720" align="middle" src="https://www.youtube.com/embed/FbcGs-XoiUw" frameborder="0"> </iframe>
 
 {% include gallery id="gallery" caption="" class="full" %}
