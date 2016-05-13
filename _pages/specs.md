@@ -1,5 +1,5 @@
 ---
 title: "Specs"
-excerpt: "AutoRally Platform Specifications"
+#excerpt: "AutoRally Platform Specifications"
 permalink: /specs/
 ---

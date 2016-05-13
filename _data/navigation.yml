@@ -8,3 +8,9 @@ main:
 
   - title: "Gallery"
     url: /gallery/
+
+  - title: "Posts"
+    url: /year-archive/
+
+  - title: "Code"
+    url: https://github.com/AutoRally
