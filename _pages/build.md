@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Build
+title: "Build"
 permalink: /build/
 
 header:
