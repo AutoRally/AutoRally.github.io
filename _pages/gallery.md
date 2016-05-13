@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Gallery"
 excerpt: "Pictures and stuff"
 permalink: /gallery/
