@@ -19,9 +19,14 @@ The AutoRally platform can be constructed by a small team of non-pofessionals. D
 ## Individual Parts
 
 [Chassis Instructions](https://github.com/AutoRally/autorally_platform_instructions)
+
 Compute Box Instructions
+
   * Mini-itx (Coming Soon)
   * Jetson (Coming Soon)
+
 [Supplementary Files]()
+
 [Platform Configuration and Software](https://github.com/AutoRally/autorally)
+
 Operating Procedures (Coming Soon)
