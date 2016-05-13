@@ -15,6 +15,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+layout                   : single
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -88,7 +89,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "GT AutoRally"
+  youtube          : "https://www.youtube.com/channel/UCSt0P1uqi4zU5RX2DZC_Qvg"
 
 
 # Reading Files
@@ -149,7 +150,7 @@ kramdown:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
