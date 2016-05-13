@@ -6,29 +6,31 @@ permalink: /gallery/
 
 gallery:
   - url: autorally_platform_gallery.jpg
-    image_path: autorally_platform_gallery.jpg
+    image_path: autorally_platform_gallery-th.jpg
     alt: "placeholder image 1"
   - url: autorally_platform_gallery2.jpg
-    image_path: autorally_platform_gallery2.jpg
+    image_path: autorally_platform_gallery2-th.jpg
     alt: "placeholder image 2"
   - url: autorally_platform_muddy.jpg
-    image_path: autorally_platform_muddy.jpg
+    image_path: autorally_platform_muddy-th.jpg
     alt: "placeholder image 3"
   - url: autorally_platform_twowheels.jpg
-    image_path: autorally_platform_twowheels.jpg
+    image_path: autorally_platform_twowheels-th.jpg
     alt: "placeholder image 4"
   - url: autorally_platform_nobody.jpg
-    image_path: autorally_platform_nobody.jpg
+    image_path: autorally_platform_nobody-th.jpg
     alt: "placeholder image 5"
   - url: autorally_platform_jetson.jpg
-    image_path: autorally_platform_jetson.jpg
+    image_path: autorally_platform_jetson-th.jpg
     alt: "placeholder image 6"
   - url: autorally_platform_jetson2.jpg
-    image_path: autorally_platform_jetson2.jpg
+    image_path: autorally_platform_jetson2-th.jpg
     alt: "placeholder image 7"
-  - image_path: autorally_platform_jetson3.JPG
+  - url: autorally_platform_jetson3-th.JPG
+	image_path: autorally_platform_jetson3-th.JPG
     alt: "placeholder image 8"
-  - image_path: autorally_platforms.jpg
+  - url: autorally_platforms.jpg
+  	image_path: autorally_platforms-th.jpg
     alt: "placeholder image 9"
 
 ---
