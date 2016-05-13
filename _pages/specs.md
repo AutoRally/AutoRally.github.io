@@ -5,6 +5,12 @@ permalink: /specs/
 
 ---
 
+## Overall
+  * Weight: 21kg
+  * Top speed: 27m/s (60 mph)
+  * Size: 1m long, 0.6m wide, 0.4m high
+  * Standard operating team: 2-3 people
+
 ## Chassis
   * Derived from 1:5 scale RC truck
   * Off-the-shelf chassis modifications to support payload

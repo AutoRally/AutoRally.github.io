@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Build"
+title: Build
 permalink: /build/
 
 header:
@@ -10,18 +10,10 @@ header:
 
 # Build your own AutoRally Platform
 
-The AutoRally platform can be constructed by a small team of non-pofessionals. Documentation is broken into a few parts all contained in one repository, or each part can be downloaded individually:
+The AutoRally platform can be constructed by a small team of non-pofessionals. Documentation is broken into a few parts, all of which are contained in a GitHub repository with all necessary supporting documents. The current platform with high-precision sensors and Mini-ITX form-factor compute box can be built and ready to run in about 80 hours. Total parts cost is less than $20,000.
 
-## Full download
-
-  * [Full Download](https://github.com/AutoRally/autorally_platform_instructions/archive/master.zip)
-
-## Individual Parts
-
-  * [Chassis Instructions](https://github.com/AutoRally/autorally_platform_instructions)
-  * Compute Box Instructions
-    * Mini-itx (Coming Soon)
-    * Jetson (Coming Soon)
-  * [Supplementary Files]()
+  * [Platform Instructions](https://github.com/AutoRally/autorally_platform_instructions/archive/master.zip)
+    * Chassis instructions and supporting materials
+    * Mini-ITX compute box instructions and supporting materials (Coming soon)
+    * Operating Procedures (Coming soon)
   * [Platform Configuration and Software](https://github.com/AutoRally/autorally)
-  * Operating Procedures (Coming Soon)
