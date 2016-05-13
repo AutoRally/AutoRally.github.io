@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "AutoRally Platform Gallery"
-#excerpt: "Pictures and stuff"
 permalink: /gallery/
 
 header:
