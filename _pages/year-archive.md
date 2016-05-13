@@ -1,7 +1,11 @@
 ---
-title: "Posts"
+layout: single
+title: Posts
 permalink: /year-archive/
+
 ---
+
+{% include base_path %}
 
 {% for post in site.posts %}
     <li>
