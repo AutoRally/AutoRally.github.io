@@ -1,8 +1,11 @@
 ---
-layout: page
+layout: single
 title: "Gallery"
 excerpt: "Pictures and stuff"
 permalink: /gallery/
+
+header:
+	overlay_image: autorally_platform_header2.jpg
 
 gallery:
   - url: autorally_platform_gallery.jpg
@@ -30,9 +33,6 @@ gallery:
     alt: "placeholder image 8"
   - image_path: autorally_platforms.jpg
     alt: "placeholder image 9"
-
-header:
-	overlay_image: autorally_platform_header2.jpg
 
 ---
 
