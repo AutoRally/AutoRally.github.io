@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "AutoRally"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "high-performance research testbed"
+description              : "Project website for the AutoRally platform."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -61,19 +61,19 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "AutoRally"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  bio              : "Georgia Tech autonomous rally project"
+  location         : "Atlanta, GA"
+  email            : bgoldfain3@gatech.edu
+  uri              : http://rehg.org/research/
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : https://github.com/AutoRally/autorally
   google_plus      :
   keybase          :
   instagram        :
@@ -88,7 +88,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : https://www.youtube.com/channel/UCSt0P1uqi4zU5RX2DZC_Qvg
 
 
 # Reading Files
