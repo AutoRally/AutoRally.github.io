@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Gallery"
-excerpt: "Pictures and stuff"
+title: "AutoRally platform images"
+#excerpt: "Pictures and stuff"
 permalink: /gallery/
 
 header:
@@ -38,4 +38,4 @@ gallery:
 
 ---
 
-{% include gallery id="gallery" caption="This is a second gallery example with images hosted externally." class="full" %}
+{% include gallery id="gallery" caption="" class="full" %}

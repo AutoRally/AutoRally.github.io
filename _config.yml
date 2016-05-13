@@ -62,9 +62,9 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "AutoRally"
+  name             : "AutoRally Robot"
   avatar           : "autorally_platform_author_avatar.jpg"
-  bio              : "High-performance research testbed for advanced perception and control research"
+  bio              : "A high-performance testbed for advanced perception and control research"
   location         : "Atlanta, GA"
   email            : bgoldfain3@gatech.edu
   uri              : http://rehg.org/research/
