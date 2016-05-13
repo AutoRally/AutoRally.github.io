@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Gallery"
 excerpt: "Pictures and stuff"
 permalink: /gallery/
@@ -25,6 +26,13 @@ gallery:
   - url: autorally_platform_jetson2.jpg
     image_path: autorally_platform_jetson2.jpg
     alt: "placeholder image 7"
+  - url: autorally_platform_jetson3.jpg
+    image_path: autorally_platform_jetson3.jpg
+    alt: "placeholder image 8"
+  - url: autorally_platforms.jpg
+    image_path: autorally_platforms.jpg
+    alt: "placeholder image 9"
+
 ---
 
 {% include gallery id="gallery" caption="This is a second gallery example with images hosted externally." class="full" %}
