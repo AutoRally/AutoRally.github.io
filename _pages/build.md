@@ -1,2 +1,4 @@
-permalink: /build/
-
+---
+layout: page
+title: Build
+---
