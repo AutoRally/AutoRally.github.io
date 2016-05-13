@@ -3,6 +3,8 @@ title: "Gallery"
 excerpt: "Pictures and stuff"
 permalink: /gallery/
 
+layout: single
+author_profile: true
 
 gallery:
   - url: unsplash-gallery-image-1.jpg
