@@ -3,7 +3,7 @@ main:
   - title: "Platform Specs"
     url: /specs/
   
-  - title: "How to Build"
+  - title: "Build Your Own"
     url: /build/
 
   - title: "Gallery"
@@ -13,4 +13,4 @@ main:
     url: /year-archive/
 
   - title: "Code"
-    url: https://github.com/AutoRally
+    url: https://github.com/AutoRally/autorally
