@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "AutoRally"
 title_separator          : "-"
-name                     : "high-performance research testbed"
+name                     : "Goergia Tech AutoRally"
 description              : "Project website for the AutoRally platform."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -63,7 +63,7 @@ google_ad_slot           :
 author:
   name             : "AutoRally"
   avatar           : "bio-photo.jpg"
-  bio              : "Georgia Tech autonomous rally project"
+  bio              : "High-performance research testbed for advanced perception and control research"
   location         : "Atlanta, GA"
   email            : bgoldfain3@gatech.edu
   uri              : http://rehg.org/research/
@@ -88,7 +88,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : UCSt0P1uqi4zU5RX2DZC_Qvg
+  youtube          : "GT AutoRally"
 
 
 # Reading Files
