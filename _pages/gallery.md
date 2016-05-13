@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "AutoRally platform images"
+title: "AutoRally Platform Gallery"
 #excerpt: "Pictures and stuff"
 permalink: /gallery/
 
@@ -37,5 +37,7 @@ gallery:
     alt: "placeholder image 9"
 
 ---
+
+<iframe width="1280" height="720" src="//https://www.youtube.com/embed/1AR2-OHCxsQ" frameborder="0"> </iframe>
 
 {% include gallery id="gallery" caption="" class="full" %}
