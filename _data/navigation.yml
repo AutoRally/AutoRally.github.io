@@ -1,13 +1,13 @@
 # main links links
 main:
+  - title: "Platform Specs"
+    url: /specs/
+  
   - title: "About"
-    url: 
-
-  - title: "Specs"
-    url: 
+    url: /about/
 
   - title: "Gallery"
-    url: 
+    url: /gallery/
   
   - title: "Posts"
     url: /year-archive/
