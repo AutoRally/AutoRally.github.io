@@ -26,8 +26,8 @@ gallery:
   - url: autorally_platform_jetson2.jpg
     image_path: autorally_platform_jetson2.jpg
     alt: "placeholder image 7"
-  - url: autorally_platform_jetson3-th.JPG
-	image_path: autorally_platform_jetson3.JPG
+  - url: autorally_platform_jetson3.jpg
+	image_path: autorally_platform_jetson3.jpg
     alt: "placeholder image 8"
   - url: autorally_platforms.jpg
   	image_path: autorally_platforms.jpg
