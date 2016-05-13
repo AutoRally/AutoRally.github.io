@@ -11,9 +11,9 @@ title                    : "AutoRally"
 title_separator          : "-"
 name                     : "Goergia Tech AutoRally"
 description              : "Project website for the AutoRally platform."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://AutoRally.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-gh_repo                  :
+gh_repo                  : AutoRally
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 
 # breadcrumbs            : false # true, false (default)
@@ -155,7 +155,7 @@ defaults:
       author_profile: true
 
 header:
-  overlay_image: autorally_platform_small.jpg
+  overlay_image: autorally_platform_header.jpg
 
 # Outputting
 permalink: /:categories/:title/
