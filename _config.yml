@@ -11,11 +11,14 @@ title                    : "AutoRally"
 title_separator          : "-"
 name                     : "Goergia Tech AutoRally"
 description              : "Project website for the AutoRally platform."
-url                      : "http://AutoRally.github.io"
+url                      :
 baseurl                  : # the subpath of your site, e.g. "/blog"
-gh_repo                  : AutoRally
+gh_repo                  : 
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 
+header:
+  overlay_image: autorally_platform_small.jpg
+  
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -144,18 +147,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
-header:
-  overlay_image: autorally_platform_header.jpg
 
 # Outputting
 permalink: /:categories/:title/
