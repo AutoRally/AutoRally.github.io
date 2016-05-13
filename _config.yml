@@ -146,17 +146,13 @@ kramdown:
   enable_coderay: false
 
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
 
 header:
   overlay_image: autorally_platform_small.jpg
@@ -164,6 +160,9 @@ header:
 
 # Outputting
 permalink: /:categories/:title/
+permalink: /specs/
+permalink: /build/
+permalink: /gallery/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: America/New_York# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
