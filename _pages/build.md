@@ -1,6 +1,6 @@
 ---
 layout: single
-#title: How to Build the AutoRally Platform
+title: ""
 permalink: /build/
 
 header:
