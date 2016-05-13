@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Research Horizons Feature"
 excerpt: The project was featured in the Rolling Robots article in Research Horizons Issue 1 2016
 
