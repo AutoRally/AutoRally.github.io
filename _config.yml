@@ -145,6 +145,22 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+header:
+  overlay_image: autorally_platform_small.jpg
+
 
 # Outputting
 permalink: /:categories/:title/
@@ -205,19 +221,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-
-header:
-  overlay_image: autorally_platform_small.jpg
