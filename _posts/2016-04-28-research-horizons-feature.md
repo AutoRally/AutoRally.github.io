@@ -5,6 +5,7 @@ excerpt: The project was featured in the Rolling Robots article from Research Ho
 
 header:
   overlay_image: http://www.rh.gatech.edu/sites/rh.gatech.edu/files/images/features/inline-images/rollinrobots_testrack.jpg
+  teaser: http://www.rh.gatech.edu/sites/rh.gatech.edu/files/images/features/inline-images/rollinrobots_testrack.jpg
   caption: "Photo credit: Rob Felt, Research Horizons"
   cta_label: "Article"
   cta_url: "http://www.rh.gatech.edu/features/rolling-robots"
