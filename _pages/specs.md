@@ -52,9 +52,11 @@ permalink: /specs/
   * GPS waypoint steering controller
   * Constant velocity controller
 
-![image-right]({{ site.url }}{{ site.baseurl }}/images/trackSimulation.jpg){: .align-right}
-
 ## Simulation
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/trackSimulation.jpg" alt="">
+</figure> 
+
   * Gazebo-based
   * Identical ROS interface as physical robot
   * Vehicle model paramters measured from physical robot
