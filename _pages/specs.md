@@ -59,7 +59,7 @@ permalink: /specs/
 
 ## Simulation
 
-<figure style="width: 400px" class="align-right">
+<figure style="width: 500px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/images/trackSimulation.jpg" alt="">
 </figure>
 
