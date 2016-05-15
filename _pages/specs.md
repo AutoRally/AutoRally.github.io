@@ -5,11 +5,13 @@ permalink: /specs/
 
 ---
 
+![im]({{ site.url }}{{ site.baseurl }}/images/autorally_platform_nobody.jpg)
+
   * Weight: 21kg
   * Top speed: 27m/s (60 mph)
   * Size: 1m long, 0.6m wide, 0.4m high
   * Standard operating team: 2-3 people
-![im]({{ site.url }}{{ site.baseurl }}/images/autorally_platform_nobody.jpg)
+
 
 ## Chassis
   * Derived from 1:5 scale RC truck
@@ -37,15 +39,15 @@ permalink: /specs/
   * 1TB SATA3 SSD
   * Nvidia GTX 750ti GPU
   * WiFi and XBee communication
-  * 6s 11000mAh battery gives typical run time of 3 hours, full-load run time 1 hour
-  * Dynamically switching power selection between internal battery and external power
-  * Robust fabricated aluminum enclosure protects sensitive electronics from shock
-  * Standardized mounting and communication interface to chassis
-  
+
 <figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/images/computeBoxInterior.jpg" alt="">
 </figure>
 
+  * 6s 11000mAh battery gives typical run time of 3 hours, full-load run time 1 hour
+  * Dynamically switching power selection between internal battery and external power
+  * Robust fabricated aluminum enclosure protects sensitive electronics from shock
+  * Standardized mounting and communication interface to chassis
 
 ## Software
   * ROS-compatible, open-source core code
@@ -55,11 +57,12 @@ permalink: /specs/
   * GPS waypoint steering controller
   * Constant velocity controller
 
+## Simulation
+
 <figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/images/trackSimulation.jpg" alt="">
-</figure> 
+</figure>
 
-## Simulation
   * Gazebo-based
   * Identical ROS interface as physical robot
   * Vehicle model paramters measured from physical robot
