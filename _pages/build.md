@@ -18,3 +18,5 @@ The AutoRally platform can be constructed by a small team of non-pofessionals. D
     * Operating Procedures (Coming soon)
   * [Software and configuration instructions](https://github.com/AutoRally/autorally)
     * All core software to run on the platform as well as the simulation environment.
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
