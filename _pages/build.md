@@ -16,7 +16,11 @@ The AutoRally platform can be constructed by a small team of non-pofessionals. D
     * Mini-ITX compute box instructions and supporting materials (Coming soon)
     * Complete parts list
     * Operating Procedures (Coming soon)
-  * [Software and configuration instructions](https://github.com/AutoRally/autorally)
-    * All core software to run on the platform as well as the simulation environment.
+  * <a class="github-button" href="https://github.com/AutoRally/autorally" data-style="mega" data-count-href="/AutoRally/autorally/followers" data-count-api="/users/AutoRally/autoRally#followers" data-count-aria-label="# followers on GitHub" aria-label="AutoRally Code GitHub">Code</a>
+    * All core software to run on the platform
+    * Simulation environment with vehicle model
+  * [Platform configuration instructions](https://github.com/AutoRally/autorally/wiki)
+    * Setup a platform
+    
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
