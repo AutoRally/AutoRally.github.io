@@ -12,5 +12,8 @@ main:
   - title: "Posts"
     url: /year-archive/
 
-  - title: "Code"
+  - title: <a class="github-button" href="https://github.com/AutoRally" data-style="mega" aria-label="AutoRally on GitHub">Code</a>
     url: https://github.com/AutoRally/autorally
+
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
