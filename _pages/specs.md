@@ -28,7 +28,6 @@ permalink: /specs/
   * 2 front facing machine vision cameras, 1280x1024, 70fps, global shutter, synchronously triggered
 
 ## Computing (Mini-ITX)
-
 <figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/images/computeBoxExterior.jpg" alt="">
 </figure> 
@@ -40,12 +39,11 @@ permalink: /specs/
   * Nvidia GTX 750ti GPU
   * WiFi and XBee communication
   * 6s 11000mAh battery gives typical run time of 3 hours, full-load run time 1 hour
-  * Dynamically switching power selection between internal battery and external power
 
 <figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/images/computeBoxInterior.jpg" alt="">
 </figure>
-
+  * Dynamically switching power selection between internal battery and external power
   * Robust fabricated aluminum enclosure protects sensitive electronics from shock
   * Standardized mounting and communication interface to chassis
 
