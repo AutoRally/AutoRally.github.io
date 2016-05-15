@@ -5,14 +5,11 @@ permalink: /specs/
 
 ---
 
-
-![image-right]({{ site.url }}{{ site.baseurl }}/images/autorally_platform_nobody.jpg){: .align-right}
-
-## Overall
   * Weight: 21kg
   * Top speed: 27m/s (60 mph)
   * Size: 1m long, 0.6m wide, 0.4m high
   * Standard operating team: 2-3 people
+![im]({{ site.url }}{{ site.baseurl }}/images/autorally_platform_nobody.jpg)
 
 ## Chassis
   * Derived from 1:5 scale RC truck
@@ -29,10 +26,12 @@ permalink: /specs/
   * 2 front facing machine vision cameras, 1280x1024, 70fps, global shutter, synchronously triggered
 
 ## Computing (Mini-ITX)
-
-![image-right]({{ site.url }}{{ site.baseurl }}/images/computeBoxExterior.jpg){: .align-right}
-![image-right]({{ site.url }}{{ site.baseurl }}/images/computeBoxInterior.jpg){: .align-right}
-
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/computeBoxExterior.jpg" alt="">
+</figure> 
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/computeBoxInterior.jpg" alt="">
+</figure>
   * Intel Skylake Quad-core i7
   * 32GB DDR4 RAM
   * 512GB m.2 SSD
@@ -52,11 +51,10 @@ permalink: /specs/
   * GPS waypoint steering controller
   * Constant velocity controller
 
-## Simulation
 <figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/images/trackSimulation.jpg" alt="">
 </figure> 
-
+## Simulation
   * Gazebo-based
   * Identical ROS interface as physical robot
   * Vehicle model paramters measured from physical robot
