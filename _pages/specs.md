@@ -26,12 +26,11 @@ permalink: /specs/
   * 2 front facing machine vision cameras, 1280x1024, 70fps, global shutter, synchronously triggered
 
 ## Computing (Mini-ITX)
+
 <figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/images/computeBoxExterior.jpg" alt="">
 </figure> 
-<figure style="width: 300px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/computeBoxInterior.jpg" alt="">
-</figure>
+
   * Intel Skylake Quad-core i7
   * 32GB DDR4 RAM
   * 512GB m.2 SSD
@@ -42,6 +41,11 @@ permalink: /specs/
   * Dynamically switching power selection between internal battery and external power
   * Robust fabricated aluminum enclosure protects sensitive electronics from shock
   * Standardized mounting and communication interface to chassis
+  
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/computeBoxInterior.jpg" alt="">
+</figure>
+
 
 ## Software
   * ROS-compatible, open-source core code
@@ -54,6 +58,7 @@ permalink: /specs/
 <figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/images/trackSimulation.jpg" alt="">
 </figure> 
+
 ## Simulation
   * Gazebo-based
   * Identical ROS interface as physical robot
