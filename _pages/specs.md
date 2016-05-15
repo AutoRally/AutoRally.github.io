@@ -5,6 +5,9 @@ permalink: /specs/
 
 ---
 
+
+![image-right]({{ site.url }}{{ site.baseurl }}/images/autorally_platform_nobody.jpg){: .align-right}
+
 ## Overall
   * Weight: 21kg
   * Top speed: 27m/s (60 mph)
@@ -26,6 +29,10 @@ permalink: /specs/
   * 2 front facing machine vision cameras, 1280x1024, 70fps, global shutter, synchronously triggered
 
 ## Computing (Mini-ITX)
+
+![image-right]({{ site.url }}{{ site.baseurl }}/images/computeBoxExterior.jpg){: .align-right}
+![image-right]({{ site.url }}{{ site.baseurl }}/images/computeBoxInterior.jpg){: .align-right}
+
   * Intel Skylake Quad-core i7
   * 32GB DDR4 RAM
   * 512GB m.2 SSD
@@ -44,6 +51,8 @@ permalink: /specs/
   * Operator Control Station (OCS) for remote monitoring
   * GPS waypoint steering controller
   * Constant velocity controller
+
+![image-right]({{ site.url }}{{ site.baseurl }}/images/trackSimulation.jpg){: .align-right}
 
 ## Simulation
   * Gazebo-based
