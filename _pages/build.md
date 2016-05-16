@@ -20,7 +20,7 @@ The AutoRally platform can be constructed by a small team of non-pofessionals. D
   * [Code](https://github.com/AutoRally/autorally)
     * Core software to run the platform
     * Sate estimator built with [GTSAM](https://collab.cc.gatech.edu/borg/) that fuses GPU and IMU measurements
-    * GPS waypoint steering controller and constant velocity thorttle controller
+    * GPS waypoint steering controller and constant velocity throttle controller
     * Simulation environment with vehicle model
   * [Platform configuration instructions](https://github.com/AutoRally/autorally/wiki)
     * Compute box setup information so the core software can communicate with a chassis
