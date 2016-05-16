@@ -1,5 +1,6 @@
 ---
 layout: single
+author_profile: true
 title: "MMPI Explanation"
 date: 2016-5-15
 read_time: true

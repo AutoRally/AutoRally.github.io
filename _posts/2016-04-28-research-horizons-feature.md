@@ -1,5 +1,6 @@
 ---
 layout: single
+author_profile: true
 title: "Research Horizons Feature"
 date: 2016-04-28
 read_time: true
