@@ -31,7 +31,6 @@ permalink: /specs/
 <figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/images/computeBoxExterior.jpg" alt="">
 </figure> 
-
   * Intel Skylake Quad-core i7
   * 32GB DDR4 RAM
   * 512GB m.2 SSD
@@ -40,11 +39,9 @@ permalink: /specs/
   * WiFi and XBee communication
   * 6s 11000mAh battery gives typical run time of 3 hours, full-load run time 1 hour
   * DC power supply
-
 <figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/images/computeBoxInterior.jpg" alt="">
 </figure>
-  
   * Dynamically switching power selection between internal battery and external power
   * Robust fabricated aluminum enclosure protects sensitive electronics from shock
   * Standardized mounting and communication interface to chassis
@@ -52,20 +49,18 @@ permalink: /specs/
 ## Software
   * ROS-compatible, open-source core code
   * State estimation by fusing IMU and GPS using GTSAM optimization toolbox
+  * Flexible launch system to pair any compute box with any chassis
 <figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/images/autorallyOCS.png" alt="">
 </figure>
-  * Flexible launch system to pair any compute box with any chassis
   * Operator Control Station (OCS) for remote monitoring
   * GPS waypoint steering controller
   * Constant velocity controller
 
 ## Simulation
-
 <figure style="width: 500px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/images/trackSimulation.jpg" alt="">
 </figure>
-
   * Gazebo-based
   * Identical ROS interface as physical robot
   * Vehicle model paramters measured from physical robot
