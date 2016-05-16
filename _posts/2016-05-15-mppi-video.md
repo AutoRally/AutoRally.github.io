@@ -2,7 +2,7 @@
 layout: single
 title: "MMPI Explanation"
 date: 2016-5-15
-excerpt: MPPI results on the AutoRally platform 
+excerpt: Experimental results and explanation of the MPPI algorithm on the AutoRally platform 
 header:
   teaser: https://img.youtube.com/vi/1AR2-OHCxsQ/0.jpg
 
