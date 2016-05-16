@@ -52,6 +52,9 @@ permalink: /specs/
 ## Software
   * ROS-compatible, open-source core code
   * State estimation by fusing IMU and GPS using GTSAM optimization toolbox
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/autorallyOCS.png" alt="">
+</figure>
   * Flexible launch system to pair any compute box with any chassis
   * Operator Control Station (OCS) for remote monitoring
   * GPS waypoint steering controller
