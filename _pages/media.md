@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "AutoRally Platform Gallery"
+title: "AutoRally Platform Media"
 permalink: /media/
 
 header:
