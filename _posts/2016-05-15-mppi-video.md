@@ -1,6 +1,9 @@
 ---
+layout: single
+author_profile: true
 title: "MPPI Explanation"
 date: 2016-5-15
+read_time: true
 excerpt: Experimental results and explanation of the MPPI algorithm on the AutoRally platform 
 header:
   teaser: https://img.youtube.com/vi/1AR2-OHCxsQ/0.jpg
