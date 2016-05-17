@@ -4,7 +4,7 @@ title: ""
 permalink: /build/
 
 header:
-  image: electronicsBox.png
+  image_overlay: electronicsBox.png
 
 ---
 

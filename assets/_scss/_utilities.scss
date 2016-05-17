@@ -184,6 +184,7 @@ body:hover .visually-hidden button {
 .social-icons {
   .fa {
     color: #000;
+    display: initial;
   }
 
   .fa-behance,
@@ -198,11 +199,6 @@ body:hover .visually-hidden button {
   .fa-facebook,
   .fa-facebook-square {
     color: $facebook-color;
-  }
-
-  .fa-twitter,
-  .fa-twitter-square {
-    color: $twitter-color;
   }
 
   .fa-flickr {
