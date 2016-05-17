@@ -144,6 +144,7 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Defaults
 defaults:
   # _posts
   - scope:
@@ -163,7 +164,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-
 
 # Outputting
 permalink: /:categories/:title/
