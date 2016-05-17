@@ -12,7 +12,7 @@ header:
 
 The AutoRally platform is designed to be constructed by a small team of undergraduate or graduate students with engineering or computer science backgrounds. The current AutoRally platform (chassis + Mini-ITX compute box) can be constructed and configured in about 80 hours.
 
-Documentation is separated into a few documents, all of which are contained in a two GitHub repositories with all necessary supporting documents. 
+Documentation is separated into a few documents, all of which are contained in a two GitHub repositories with all supporting documents. 
 
   * [Platform build instructions](https://github.com/AutoRally/autorally_platform_instructions)
     * Chassis instructions and supporting materials (Coming soon)
