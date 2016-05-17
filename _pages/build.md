@@ -1,5 +1,6 @@
 ---
 layout: single
+title: ""
 permalink: /build/
 
 header:
@@ -8,7 +9,7 @@ header:
 ---
 
 # Build your own AutoRally Platform
-##
+
 The AutoRally platform can be constructed by a small team of non-pofessionals. Documentation is broken into a few parts, all of which are contained in a GitHub repository with all necessary supporting documents. The current platform with high-precision sensors and Mini-ITX form-factor compute box can be built and ready to run in about 80 hours.
 
   * [Platform build instructions](https://github.com/AutoRally/autorally_platform_instructions)
