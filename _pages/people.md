@@ -35,8 +35,8 @@ permalink: /people/
 
 {% include people-profile.html image="/images/people/rehg.png" url="" name="James Rehg" align="align-left" %}
 
-{% include people-profile.html image="/images/people/tsiotras.png" url="" name="Panagiotis Tsiotras" align="align-center" %}
+{% include people-profile.html image="/images/people/tsiotras.jpg" url="" name="Panagiotis Tsiotras" align="align-center" %}
 
-{% include people-profile.html image="/images/people/theodorou.png" url="" name="Evangelos Theodorou" align="align-right" %}
+{% include people-profile.html image="/images/people/theodorou.jpg" url="" name="Evangelos Theodorou" align="align-right" %}
 
 {% include people-profile.html image="/images/people/pic.png" url="" name="" align="align-center" %}
