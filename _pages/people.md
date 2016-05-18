@@ -17,13 +17,12 @@ permalink: /people/
 Brian Goldfain
 {% endcapture %}
 
-
-[![foo]({{ site.url }}{{ site.baseurl }}/images/people/bgoldfain-150x150.jpg)](http://www.briangoldfain.com)
-
-<figure>
+<figure style="width: 150px" class="align-left">
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>{{ fig_caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
 </figure>
+
+[![foo]({{ site.url }}{{ site.baseurl }}/images/people/bgoldfain-150x150.jpg)](http://www.briangoldfain.com)
 
 <figure style="width: 150px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/people/bgoldfain-150x150.jpg" alt="">
