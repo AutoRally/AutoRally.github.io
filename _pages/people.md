@@ -16,10 +16,6 @@ permalink: /people/
 
 {% include people-profile.html image="/images/people/gwilliams-251x251.jpg" url="" name="Grady Williams" align="align-right" %}
 
-<br>
-
-{% include people-profile.html image="/images/people/pic.png" url="" name="Kamil Saigol" align="align-left" %}
-
 ## Masters
 -------
 
@@ -38,5 +34,3 @@ permalink: /people/
 {% include people-profile.html image="/images/people/tsiotras.jpg" url="" name="Panagiotis Tsiotras" align="align-center" %}
 
 {% include people-profile.html image="/images/people/theodorou.jpg" url="" name="Evangelos Theodorou" align="align-right" %}
-
-{% include people-profile.html image="/images/people/pic.png" url="" name="" align="align-center" %}
