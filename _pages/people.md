@@ -29,6 +29,11 @@ Brian Goldfain
   <figcaption>Brian Goldfain</figcaption>
 </figure> 
 
+<figure style="width: 150px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/people/bgoldfain-150x150.jpg" href="www.briangoldfain.com"alt="">
+  <figcaption>Brian Goldfain</figcaption>
+</figure> 
+
 <figure style="width: 150px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/people/pdrews-150x150.jpg" alt="">
   <figcaption>Paul Drews</figcaption>
