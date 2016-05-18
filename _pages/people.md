@@ -16,14 +16,14 @@ permalink: /people/
 
 {% include people-profile.html image="/images/people/gwilliams-251x251.jpg" url="" name="Grady Williams" align="align-right" %}
 
-{% include people-profile.html image="/images/people/pic.png" url="" name="Kamil Saigol" align="align-center" %}
+<br>
+
+{% include people-profile.html image="/images/people/pic.png" url="" name="Kamil Saigol" align="align-left" %}
 
 ## Masters
 -------
 
 {% include people-profile.html image="/images/people/pic.png" url="" name="Marcus Pereira" align="align-center" %}
-
------------------------------------------------------------------------------------------
 
 ## Undergraduates
 -------
