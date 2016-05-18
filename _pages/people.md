@@ -29,7 +29,7 @@ permalink: /people/
 <h3 class="page__subtitle">Undergraduate</h3>
 -------
 <figure class="third">
-	{% include people-profile.html image="/images/people/mbarulic-277x277.jpg" url="http://barulicm.github.io/" name="Matt Barulic" align="align-left" %}
+	{% include people-profile.html image="/images/people/mbarulic-277x277.jpg" url="http://barulicm.github.io/" name="Matt Barulic" align="" %}
 </figure>
 
 <h3 class="page__subtitle">Professors</h3>
