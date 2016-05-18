@@ -10,7 +10,7 @@ permalink: /people/
 ## PhD Students
 
 {% capture fig_img %}
-[![Foo]("/images/people/bgoldfain-150x150.jpg")](http://www.briangoldfain.com)
+[![Foo]({{ site.url }}{{ site.baseurl }}/images/people/bgoldfain-150x150.jpg)](http://www.briangoldfain.com)
 {% endcapture %}
 
 {% capture fig_caption %}
