@@ -7,8 +7,7 @@ permalink: /people/
 
 <h2 class="page__title"> People</h2>
 
-<h3 class="page__subtitle">PhD Students</h3>
-<h3 class="page__section>PhD Students</h3>
+<h4 class="page__subtitle">PhD Students</h4>
 
 <figure class="third">
 	{% include people-profile.html image="/images/people/bgoldfain-150x150.jpg" url="http://www.briangoldfain.com" name="Brian Goldfain" align="align-left" %}
@@ -20,16 +19,18 @@ permalink: /people/
 </figure>
 
 <h3 class="page__subtitle">Masters</h3>
+
 <figure class="third">
 	{% include people-profile.html image="/images/people/pic.png" url="" name="Marcus Pereira" align="align-left" %}
 </figure>
 
 <h3 class="page__subtitle">Undergraduate</h3>
 <figure class="third">
-	{% include people-profile.html image="/images/people/mbarulic-277x277.jpg" url="http://barulicm.github.io/" name="Matt Barulic" align="align-left" %}
+	{% include people-profile.html image="/images/people/mbarulic-277x277.jpg" url="http://barulicm.github.io/" name="Matt Barulic" align="" %}
 </figure>
 
 <h3 class="page__subtitle">Professors</h3>
+
 <figure class="third">
 	{% include people-profile.html image="/images/people/rehg.png" url="" name="James Rehg" align="align-left" %}
 	{% include people-profile.html image="/images/people/tsiotras.jpg" url="" name="Panagiotis Tsiotras" align="align-center" %}
