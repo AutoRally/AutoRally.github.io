@@ -10,12 +10,15 @@ permalink: /people/
 ## PhD Students
 
 {% capture fig_img %}
-[![]("/images/people/bgoldfain-150x150.jpg")](http://www.briangoldfain.com)
+[![Foo]("/images/people/bgoldfain-150x150.jpg")](http://www.briangoldfain.com)
 {% endcapture %}
 
 {% capture fig_caption %}
 Brian Goldfain
 {% endcapture %}
+
+
+[![foo]({{ site.url }}{{ site.baseurl }}/images/people/bgoldfain-150x150.jpg)](http://www.briangoldfain.com)
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
