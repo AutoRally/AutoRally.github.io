@@ -9,35 +9,31 @@ permalink: /people/
 
 ## PhD Students
 
-{% capture fig_img %}
+{% capture brian_img %}
 [![Foo]({{ site.url }}{{ site.baseurl }}/images/people/bgoldfain-150x150.jpg)](http://www.briangoldfain.com)
 {% endcapture %}
 
-{% capture fig_caption %}
+{% capture brian_caption %}
 Brian Goldfain
 {% endcapture %}
 
 <figure style="width: 150px" class="align-left">
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>{{ fig_caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+  {{ brian_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>{{ brian_caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
 </figure>
 
-[![foo]({{ site.url }}{{ site.baseurl }}/images/people/bgoldfain-150x150.jpg)](http://www.briangoldfain.com)
+{% capture paul_img %}
+[![Foo]({{ site.url }}{{ site.baseurl }}/images/people/pdrews-150x150.jpg)](https://borg.cc.gatech.edu/people/pdrews3)
+{% endcapture %}
 
-<figure style="width: 150px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/people/bgoldfain-150x150.jpg" alt="">
-  <figcaption>Brian Goldfain</figcaption>
-</figure> 
-
-<figure style="width: 150px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/people/bgoldfain-150x150.jpg" href="www.briangoldfain.com"alt="">
-  <figcaption>Brian Goldfain</figcaption>
-</figure> 
+{% capture paul_caption %}
+Paul Drews
+{% endcapture %}
 
 <figure style="width: 150px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/people/pdrews-150x150.jpg" alt="">
-  <figcaption>Paul Drews</figcaption>
-</figure> 
+  {{ paul_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>{{ paul_caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+</figure>
 
 <figure style="width: 150px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/images/people/gwilliams-150x150.jpg" alt="">
