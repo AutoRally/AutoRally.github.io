@@ -9,64 +9,28 @@ permalink: /people/
 
 ## PhD Students
 
-{% capture brian_img %}
-[![Foo]({{ site.url }}{{ site.baseurl }}/images/people/bgoldfain-150x150.jpg)](http://www.briangoldfain.com)
-{% endcapture %}
-
-{% capture brian_caption %}
-Brian Goldfain
-{% endcapture %}
-
-<figure style="width: 150px" class="align-left">
-  {{ brian_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>{{ brian_caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
-</figure>
-
 
 {% include people-profile.html image="/images/people/bgoldfain-150x150.jpg" url="http://www.briangoldfain.com" name="Brian Goldfain" align="align-center" %}
 
-{% capture paul_img %}
-[![Foo]({{ site.url }}{{ site.baseurl }}/images/people/pdrews-150x150.jpg)](https://borg.cc.gatech.edu/people/pdrews3)
-{% endcapture %}
+{% include people-profile.html image="/images/people/pdrews-150x150.jpg" url="https://borg.cc.gatech.edu/people/pdrews3" name="Paul Drews" align="align-center" %}
 
-{% capture paul_caption %}
-Paul Drews
-{% endcapture %}
+{% include people-profile.html image="/images/people/gwilliams-150x150.jpg" url="" name="Grady Williams" align="align-right" %}
 
-<figure style="width: 150px" class="align-center">
-  {{ paul_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>{{ paul_caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
-</figure>
-
-<figure style="width: 150px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/people/gwilliams-150x150.jpg" alt="">
-  <figcaption>Grady Williams</figcaption>
-</figure>
-
-<figure style="width: 150px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/people/ksaigol-150x150.jpg" alt="">
-  <figcaption>Kamil Saigol</figcaption>
-</figure>
+{% include people-profile.html image="/images/people/ksaigol-150x150.jpg" url="" name="Kamil Saigol" align="align-center" %}
 
 <br />
 -----------------------------------------------------------------------------------------
 
 ## Masters
 
-<figure style="width: 150px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/people/mpereira-150x150.jpg" alt="">
-  <figcaption>Marcus Pereira</figcaption>
-</figure>
+{% include people-profile.html image="/images/people/mpereira-150x150.jpg" url="" name="Marcus Pereira" align="align-center" %}
 
 <br />
 -----------------------------------------------------------------------------------------
 
 ## Undergraduates
 
-<figure style="width: 150px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/people/mbarulic-277x277.jpg" alt="">
-  <figcaption>Matt Barulic</figcaption>
-</figure>
+{% include people-profile.html image="/images/people/mbarulic-277x277.jpg" url="http://barulicm.github.io/" name="Matt Barulic" align="align-center" %}
 
 <br />
 -----------------------------------------------------------------------------------------
