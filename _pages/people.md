@@ -9,6 +9,19 @@ permalink: /people/
 
 ## PhD Students
 
+{% capture fig_img %}
+[![Foo]("{{ site.url }}{{ site.baseurl }}/images/people/bgoldfain-150x150.jpg")](http://www.briangoldfain.com)
+{% endcapture %}
+
+{% capture fig_caption %}
+Brian Goldfain
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>{{ fig_caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+</figure>
+
 <figure style="width: 150px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/people/bgoldfain-150x150.jpg" alt="">
   <figcaption>Brian Goldfain</figcaption>
