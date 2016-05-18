@@ -12,7 +12,7 @@ permalink: /people/
 
 {% include people-profile.html image="/images/people/bgoldfain-150x150.jpg" url="http://www.briangoldfain.com" name="Brian Goldfain" align="align-left" %}
 
-{% include people-profile.html image="/images/people/pdrews-150x150.jpg" url="https://borg.cc.gatech.edu/people/pdrews3" name="Paul Drews" align="align-right" %}
+{% include people-profile.html image="/images/people/pdrews-150x150.jpg" url="https://borg.cc.gatech.edu/people/pdrews3" name="Paul Drews" align="align-left" %}
 
 {% include people-profile.html image="/images/people/gwilliams-251x251.jpg" url="" name="Grady Williams" align="align-left" %}
 
