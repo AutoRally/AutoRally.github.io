@@ -29,7 +29,8 @@ permalink: /people/
   <figcaption>Kamil Saigol</figcaption>
 </figure>
 
----------------
+<br />
+-----------------------------------------------------------------------------------------
 
 ## Masters
 
@@ -38,7 +39,8 @@ permalink: /people/
   <figcaption>Marcus Pereira</figcaption>
 </figure>
 
----------------
+<br />
+-----------------------------------------------------------------------------------------
 
 ## Undergraduates
 
@@ -47,7 +49,8 @@ permalink: /people/
   <figcaption>Matt Barulic</figcaption>
 </figure>
 
----------------
+<br />
+-----------------------------------------------------------------------------------------
 
 ## Professors
 
