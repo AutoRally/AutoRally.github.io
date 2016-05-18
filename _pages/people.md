@@ -32,7 +32,7 @@ permalink: /people/
 <h3 class="page__subtitle">Professors</h3>
 
 <figure class="third">
-	{% include people-profile.html image="/images/people/rehg.png" url="" name="James Rehg" align="align-left" %}
+	{% include people-profile.html image="/images/people/rehg.png" url="" name="James Rehg" align="" %}
 	{% include people-profile.html image="/images/people/tsiotras.jpg" url="" name="Panagiotis Tsiotras" align="" %}
 	{% include people-profile.html image="/images/people/theodorou.jpg" url="" name="Evangelos Theodorou" align="" %}
 </figure>
