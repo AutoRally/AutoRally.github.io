@@ -1,0 +1,12 @@
+{% capture fig_img %}
+[![Foo]({{ site.url }}{{ site.baseurl }}{{ include.image }})]({{ include.url }})
+{% endcapture %}
+
+{% capture fig_caption %}
+{{ include.name }}
+{% endcapture %}
+
+<figure style="width: 150px" class={{ include.align }}>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>{{ fig_caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+</figure>

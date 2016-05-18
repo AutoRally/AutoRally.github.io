@@ -22,6 +22,9 @@ Brian Goldfain
   <figcaption>{{ brian_caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
 </figure>
 
+
+{% include people-profile.html image="/images/people/bgoldfain-150x150.jpg" url="http://www.briangoldfain.com" name="Brian Goldfain" align="align-center" %}
+
 {% capture paul_img %}
 [![Foo]({{ site.url }}{{ site.baseurl }}/images/people/pdrews-150x150.jpg)](https://borg.cc.gatech.edu/people/pdrews3)
 {% endcapture %}
