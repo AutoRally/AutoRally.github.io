@@ -16,17 +16,19 @@ permalink: /people/
 
 {% include people-profile.html image="/images/people/gwilliams-251x251.jpg" url="" name="Grady Williams" align="align-right" %}
 
-## Masters
+
+
+<h3 class="page__subtitle">Masters</h3>
 -------
 
 {% include people-profile.html image="/images/people/pic.png" url="" name="Marcus Pereira" align="align-center" %}
 
-## Undergraduates
+<h3 class="page__subtitle">Undergraduate</h3>
 -------
 
 {% include people-profile.html image="/images/people/mbarulic-277x277.jpg" url="http://barulicm.github.io/" name="Matt Barulic" align="align-center" %}
 
-## Professors
+<h3 class="page__subtitle">Professors</h3>
 -------
 
 {% include people-profile.html image="/images/people/rehg.png" url="" name="James Rehg" align="align-left" %}
