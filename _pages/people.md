@@ -33,3 +33,6 @@ permalink: /people/
 	{% include people-profile.html image="/images/people/tsiotras.jpg" url="" name="Panagiotis Tsiotras" align="align-center" %}
 	{% include people-profile.html image="/images/people/theodorou.jpg" url="" name="Evangelos Theodorou" align="align-right" %}
 </figure>
+<figure class="third">
+	{% include people-profile.html image="/images/people/boots.jpg" url="http://www.cc.gatech.edu/~bboots3/" name="Byron Boots" align="align-left" %}
+</figure>
