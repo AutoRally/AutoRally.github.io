@@ -10,23 +10,23 @@ permalink: /people/
 <h3 class="page__subtitle">PhD Students</h3>
 
 <figure class="third">
-	{% include people-profile.html image="/images/people/bgoldfain-150x150.jpg" url="http://www.briangoldfain.com" name="Brian Goldfain" align="" %}
-	{% include people-profile.html image="/images/people/pdrews-150x150.jpg" url="https://borg.cc.gatech.edu/people/pdrews3" name="Paul Drews" align="" %}
-	{% include people-profile.html image="/images/people/gwilliams-251x251.jpg" url="" name="Grady Williams" align="" %}
+	{% include people-profile.html image="/images/people/bgoldfain-150x150.jpg" url="http://www.briangoldfain.com" name="Brian Goldfain, Robotics" align="" %}
+	{% include people-profile.html image="/images/people/pdrews-150x150.jpg" url="https://borg.cc.gatech.edu/people/pdrews3" name="Paul Drews, Robotics" align="" %}
+	{% include people-profile.html image="/images/people/gwilliams-251x251.jpg" url="" name="Grady Williams, Robotics" align="" %}
 </figure>
 <figure class="third">
-	{% include people-profile.html image="/images/people/pic.png" url="" name="Kamil Saigol" align="" %}
+	{% include people-profile.html image="/images/people/pic.png" url="" name="Kamil Saigol, Robotics" align="" %}
 </figure>
 
 <h3 class="page__subtitle">Masters</h3>
 
 <figure class="third">
-	{% include people-profile.html image="/images/people/pic.png" url="" name="Marcus Pereira" align="" %}
+	{% include people-profile.html image="/images/people/pic.png" url="" name="Marcus Pereira, AE" align="" %}
 </figure>
 
 <h3 class="page__subtitle">Undergraduate</h3>
 <figure class="third">
-	{% include people-profile.html image="/images/people/mbarulic-277x277.jpg" url="http://barulicm.github.io/" name="" align="" %}
+	{% include people-profile.html image="/images/people/mbarulic-277x277.jpg" url="http://barulicm.github.io/" name="Matt Barulic, CS" align="" %}
 </figure>
 
 <h3 class="page__subtitle">Professors</h3>
