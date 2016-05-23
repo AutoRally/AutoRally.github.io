@@ -21,7 +21,7 @@ Documentation is separated into a few documents, all of which are contained in a
     * Operating Procedures (Coming soon)
   * [Code](https://github.com/AutoRally/autorally)
     * Core software to run the platform
-    * Sate estimator built with [GTSAM](https://collab.cc.gatech.edu/borg/) that fuses GPU and IMU measurements
+    * State estimator built with [GTSAM](https://collab.cc.gatech.edu/borg/) that fuses GPU and IMU measurements
     * GPS waypoint steering controller and constant velocity throttle controller
     * Simulation environment with vehicle model
   * [Platform configuration instructions](https://github.com/AutoRally/autorally/wiki)
