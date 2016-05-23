@@ -1,5 +1,5 @@
 ---
-title: "IEEE Spectrum Article"
+title: "Gizmodo Post"
 date: 2016-05-19
 excerpt: Gizmodo posted a shortened version of the IEEE Spectrum article
 header:
