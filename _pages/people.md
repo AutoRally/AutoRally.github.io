@@ -23,10 +23,10 @@ permalink: /people/
 <figure class="third">
 	{% include people-profile.html image="/images/people/bgoldfain-150x150.jpg" url="http://www.briangoldfain.com" name="Brian Goldfain, Robotics" align="" %}
 	{% include people-profile.html image="/images/people/pdrews-150x150.jpg" url="https://borg.cc.gatech.edu/people/pdrews3" name="Paul Drews, Robotics" align="" %}
-	{% include people-profile.html image="/images/people/gwilliams-251x251.jpg" url="" name="Grady Williams, Robotics" align="" %}
+	{% include people-profile.html image="/images/people/gwilliams.jpg" url="" name="Grady Williams, Robotics" align="" %}
 </figure>
 <figure class="third">
-	{% include people-profile.html image="/images/people/pic.png" url="" name="Kamil Saigol, Robotics" align="" %}
+	{% include people-profile.html image="/images/people/kamil150150.jpg" url="" name="Kamil Saigol, Robotics" align="" %}
 </figure>
 
 <h3 class="page__subtitle">Masters</h3>
