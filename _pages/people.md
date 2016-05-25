@@ -10,7 +10,7 @@ permalink: /people/
 <h3 class="page__subtitle">Professors</h3>
 
 <figure class="third">
-	{% include people-profile.html image="/images/people/rehg.png" url="rehg.org" name="James Rehg" align="" %}
+	{% include people-profile.html image="/images/people/rehg.png" url="http://rehg.org/" name="James Rehg" align="" %}
 	{% include people-profile.html image="/images/people/tsiotras.jpg" url="http://soliton.ae.gatech.edu/people/ptsiotra/" name="Panagiotis Tsiotras" align="" %}
 	{% include people-profile.html image="/images/people/theodorou.jpg" url="http://acds-lab.gatech.edu/" name="Evangelos Theodorou" align="" %}
 </figure>

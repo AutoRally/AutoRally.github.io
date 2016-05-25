@@ -15,9 +15,9 @@ The AutoRally platform is designed to be constructed by a small team of undergra
 Documentation is separated into a few documents, all of which are contained in a two GitHub repositories with all supporting documents. 
 
   * [Platform build instructions](https://github.com/AutoRally/autorally_platform_instructions)
-    * Chassis instructions and supporting materials (Coming soon)
+    * Chassis instructions and supporting materials
     * Mini-ITX compute box instructions and supporting materials (Coming soon)
-    * Complete parts list (Coming soon)
+    * Complete parts list
     * Operating Procedures (Coming soon)
   * [Code](https://github.com/AutoRally/autorally)
     * Core software to run the platform
