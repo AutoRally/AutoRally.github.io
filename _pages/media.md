@@ -17,6 +17,9 @@ gallery:
   - url: autorally_platform_gallery3.jpg
     image_path: autorally_platform_gallery3.jpg
     alt: "placeholder gallery 3"
+  - url: autorally_platform_twowheels.jpg
+    image_path: autorally_platform_twowheels.jpg
+    alt: "placeholder image 4"
   - url: GT_autonomous_racing_facility.jpg
     image_path: GT_autonomous_racing_facility.jpg
     alt: "placeholder image 2"
@@ -26,9 +29,6 @@ gallery:
   - url: autorally_platform_muddy.jpg
     image_path: autorally_platform_muddy.jpg
     alt: "placeholder image 3"
-  - url: autorally_platform_twowheels.jpg
-    image_path: autorally_platform_twowheels.jpg
-    alt: "placeholder image 4"
   - url: autorally_platform_nobody.jpg
     image_path: autorally_platform_nobody.jpg
     alt: "placeholder image 5"
@@ -47,7 +47,7 @@ gallery:
 
 ---
 
-{% include gallery id="gallery" caption="" class="full" %}
+{% include gallery id="gallery" caption="" %}
 
 <iframe width="1280" height="720" src="https://youtube.com/embed/1AR2-OHCxsQ" frameborder="0"></iframe>
 
