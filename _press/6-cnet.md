@@ -1,9 +1,10 @@
 ---
 title: "CNET Tomorrow Daily"
-excerpt: Self-driving toy rally truck teaches itself how to driftz
+excerpt: Self-driving toy rally truck teaches itself how to drift
+date: 2016-1-5
 header:
   teaser: autorally_platform_muddy.jpg
-link: http://www.popsci.com/georgia-tech-builds-an-aggro-autonomous-rally-car
+link: http://www.cnet.com/videos/self-driving-toy-rally-truck-teaches-itself-how-to-drift-tomorrow-daily-367/
 
 ---
 
