@@ -47,7 +47,7 @@ gallery:
 
 ---
 
-{% include gallery id="gallery" caption="" %}
+{% include gallery id="gallery" caption="" class="full" %}
 
 <iframe width="1280" height="720" src="https://youtube.com/embed/1AR2-OHCxsQ" frameborder="0"></iframe>
 
