@@ -3,6 +3,9 @@ layout: single
 title: ""
 permalink: /people/
 
+sidebar:
+  nav: "about"
+
 ---
 
 <h2 class="page__title"> People</h2>

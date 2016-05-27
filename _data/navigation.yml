@@ -6,11 +6,24 @@ main:
   - title: "Build Your Own"
     url: /build/
 
-  - title: "Media"
-    url: /media/
-
   - title: "Posts"
-    url: /year-archive/  
+    url: /year-archive/
+
+  - title: "About"
+    url: /people/
 
   - title: "Code"
     url: https://github.com/AutoRally/autorally
+
+about:
+  - title: "People"
+    url: /people/
+
+  - title: "Media"
+    url: /media/
+
+  - title: "Recent Press"
+    url: /press/
+
+  - title: "Link 4 Title"
+    url: /link-4-page-url/

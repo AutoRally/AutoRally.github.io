@@ -6,6 +6,9 @@ permalink: /media/
 header:
   overlay_image: autorally_platform_header2.jpg
 
+sidebar:
+  nav: "about"
+
 gallery:
   - url: autorally_platform_gallery.jpg
     image_path: autorally_platform_gallery.jpg
