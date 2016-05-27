@@ -44,4 +44,4 @@ gallery:
 
 <iframe width="1280" height="720" src="https://youtube.com/embed/T4ZB3RYSbrk" frameborder="0"></iframe>
 
-<iframe align="right" width="1280" height="720" src="https://youtube.com/embed/FbcGs-XoiUw" frameborder="0"></iframe>
+<iframe width="1280" height="720" src="https://youtube.com/embed/FbcGs-XoiUw" frameborder="0"></iframe>
