@@ -1,6 +1,5 @@
 ---
 title: "GT Press Release"
-date: 2016-05-23
 excerpt: With interviews of the professors involved
 header:
   teaser: https://img.youtube.com/vi/T4ZB3RYSbrk/0.jpg

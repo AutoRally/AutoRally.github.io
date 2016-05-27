@@ -1,6 +1,5 @@
 ---
 title: "IEEE Spectrum"
-date: 2016-05-18
 excerpt: Article about the AutoRally platform and MPPI algorithm based from ICRA 2016 results  
 header:
   teaser: http://spectrum.ieee.org/img/GTRallyBLOG-1463526826333.gif
