@@ -10,21 +10,7 @@ main:
     url: /media/
 
   - title: "Posts"
-    url: /year-archive/
-  
-  - title: "About"
-    url: / 
-    children:
-      - title: "People"
-        url: /people/
-      - title: "Media"
-        url: /media/
-      - title: "Recent Press"
-        url:  /
-      - title: "Sponsors"
-        url: /sponsors/
-
-  
+    url: /year-archive/  
 
   - title: "Code"
     url: https://github.com/AutoRally/autorally
