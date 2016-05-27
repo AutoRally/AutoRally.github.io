@@ -18,7 +18,7 @@ gallery:
     image_path: autorally_platform_gallery3.jpg
     alt: "placeholder gallery 3"
   - url: autorally_platform_twowheels.jpg
-    image_path: autorally_platform_twowheels.jpg
+    image_path: autorally_platform_twowheels_th.jpg
     alt: "placeholder image 4"
   - url: autorally_platform_muddy.jpg
     image_path: autorally_platform_muddy.jpg
@@ -27,7 +27,7 @@ gallery:
     image_path: autorally_platform_nobody.jpg
     alt: "placeholder image 6"
   - url: GT_autonomous_racing_facility.jpg
-    image_path: GT_autonomous_racing_facility.jpg
+    image_path: GT_autonomous_racing_facility_th.jpg
     alt: "placeholder image 7"
   - url: autorally_platform_sequence.jpg
     image_path: autorally_platform_sequence.jpg
