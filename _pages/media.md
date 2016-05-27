@@ -40,8 +40,8 @@ gallery:
 
 {% include gallery id="gallery" caption="" class="full" %}
 
-<iframe width="1280" height="720" src="https://youtube.com/embed/1AR2-OHCxsQ" frameborder="1"></iframe>
+<iframe width="1280" height="720" src="https://youtube.com/embed/1AR2-OHCxsQ" frameborder="0"></iframe>
 
 <iframe width="1280" height="720" src="https://youtube.com/embed/T4ZB3RYSbrk" frameborder="0"></iframe>
 
-<iframe align="middle" width="1280" height="720" src="https://youtube.com/embed/FbcGs-XoiUw" frameborder="0"></iframe>
+<iframe align="right" width="1280" height="720" src="https://youtube.com/embed/FbcGs-XoiUw" frameborder="0"></iframe>
