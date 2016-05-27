@@ -30,7 +30,7 @@ gallery:
     image_path: GT_autonomous_racing_facility_th.jpg
     alt: "placeholder image 7"
   - url: autorally_platform_sequence.jpg
-    image_path: autorally_platform_sequence.jpg
+    image_path: autorally_platform_sequence_th.jpg
     alt: "placeholder image 8"
   - url: autorally_platform_jetson.jpg
     image_path: autorally_platform_jetson.jpg
