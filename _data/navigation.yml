@@ -16,14 +16,17 @@ main:
     url: https://github.com/AutoRally/autorally
 
 about:
-  - title: "People"
+  - title: "About"
     url: /people/
+    children:
+      - title: "People"
+        url: /people/
 
-  - title: "Media"
-    url: /media/
+      - title: "Media"
+        url: /media/
 
-  - title: "Recent Press"
-    url: /press/
+      - title: "Recent Press"
+        url: /press/
 
-  - title: "Link 4 Title"
-    url: /link-4-page-url/
+      - title: "Link 4 Title"
+        url: /link-4-page-url/
