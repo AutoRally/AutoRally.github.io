@@ -11,8 +11,8 @@ sidebar:
 
 {% include base_path %}
 
-{% for pr in paginator.press paginate:8 %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
-
-{% include paginator.html %}
+<div class="grid__wrapper">
+  {% for post in site.press %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
