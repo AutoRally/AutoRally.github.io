@@ -1,5 +1,5 @@
 ---
-title: "GT Article"
+title: "GT Press Release"
 date: 2016-05-23
 excerpt: With interviews of the professors involved
 header:
