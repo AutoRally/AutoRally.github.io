@@ -1,5 +1,5 @@
 ---
-title: "MPPI Explanation"
+title: "MPPI Explanation Video"
 date: 2016-5-15
 excerpt: Experimental results and explanation of the MPPI algorithm on the AutoRally platform 
 header:
