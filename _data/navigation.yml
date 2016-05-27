@@ -10,14 +10,14 @@ main:
     url: /year-archive/
 
   - title: "About"
-    url: /people/
+    url: /media/
 
   - title: "Code"
     url: https://github.com/AutoRally/autorally
 
 about:
   - title: "About"
-    url: /media/
+    url:
     children:
       - title: "Media"
         url: /media/

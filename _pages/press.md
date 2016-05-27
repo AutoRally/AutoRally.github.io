@@ -12,3 +12,5 @@ sidebar:
 
 ---
 
+{% include base_path %}
+
