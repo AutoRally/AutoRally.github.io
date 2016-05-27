@@ -13,14 +13,14 @@ main:
     url: /year-archive/
   
   - title: "About"
-    url: 
+    url: / 
     children:
       - title: "People"
         url: /people/
       - title: "Media"
         url: /media/
       - title: "Recent Press"
-        url:
+        url:  /
       - title: "Sponsors"
         url: /sponsors/
 
