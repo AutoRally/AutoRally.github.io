@@ -17,7 +17,7 @@ main:
 
 about:
   - title: "About"
-    url:
+    url: /media/
     children:
       - title: "Media"
         url: /media/
