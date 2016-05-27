@@ -2,6 +2,7 @@
 layout: single
 title: ""
 permalink: /people/
+author_profile: false
 
 sidebar:
   nav: "about"

@@ -17,16 +17,11 @@ main:
 
 about:
   - title: "About"
-    url: /people/
+    url:
     children:
-      - title: "People"
-        url: /people/
-
       - title: "Media"
         url: /media/
-
+      - title: "People"
+        url: /people/
       - title: "Recent Press"
         url: /press/
-
-      - title: "Link 4 Title"
-        url: /link-4-page-url/

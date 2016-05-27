@@ -2,6 +2,7 @@
 layout: single
 title: "AutoRally Platform Media"
 permalink: /media/
+author_profile: false
 
 header:
   overlay_image: autorally_platform_header2.jpg
