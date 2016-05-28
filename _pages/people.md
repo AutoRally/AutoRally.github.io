@@ -36,7 +36,7 @@ sidebar:
 <h3 class="page__subtitle">Masters</h3>
 
 <figure class="third">
-	{% include people-profile.html image="/images/people/pic.png" url="" name="Marcus Pereira, AE" align="" %}
+	{% include people-profile.html image="/images/people/mpereira.jpg" url="" name="Marcus Pereira, AE" align="" %}
 </figure>
 
 <h3 class="page__subtitle">Undergraduate</h3>
