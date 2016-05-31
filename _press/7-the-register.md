@@ -1,6 +1,5 @@
 ---
 title: "The Register"
-date: 2016-05-18
 excerpt: Safety, pah! Digital Dukes of Hazzard have robot cars powersliding
 date: 2016-1-7
 header:

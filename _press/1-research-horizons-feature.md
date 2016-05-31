@@ -1,6 +1,6 @@
 ---
 title: "GT Research Horizons"
-excerpt: The project was featured in the Rolling Robots article from Research Horizons, Issue 1 2016.
+excerpt: Researchers work to avoid potholes and pitfalls on the road to autonomous vehicles
 date: 2016-1-1
 header:
   teaser: researchHorizons_teaser.jpg
