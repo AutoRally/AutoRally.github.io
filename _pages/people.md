@@ -41,5 +41,8 @@ sidebar:
 
 <h3 class="page__subtitle">Undergraduate</h3>
 <figure class="third">
+	{% include people-profile.html image="/images/people/cbagwell.jpg" url="" name="Carden Bagwell, CS" align="" %}
 	{% include people-profile.html image="/images/people/mbarulic-277x277.jpg" url="http://barulicm.github.io/" name="Matt Barulic, CS" align="" %}
+	{% include people-profile.html image="/images/people/jmckendree.png" url="" name="Jeff McKendree, ME" align="" %}
+	{% include people-profile.html image="/images/people/sselim.jpg" url=" https://www.linkedin.com/in/sarah-selim-394512101" name="Sarah Selim, ME" align="" %}
 </figure>
