@@ -46,5 +46,6 @@ sidebar:
 	{% include people-profile.html image="/images/people/jmckendree.png" url="" name="Jeff McKendree, ME" align="" %}
 </figure>
 <figure class="third">
-	{% include people-profile.html image="/images/people/sselim.jpg" url=" https://www.linkedin.com/in/sarah-selim-394512101" name="Sarah Selim, ME" align="" %}
+	{% include people-profile.html image="/images/people/sselim.jpg" url="https://www.linkedin.com/in/sarah-selim-394512101" name="Sarah Selim, ME" align="" %}
+	{% include people-profile.html image="/images/people/ovelev.jpg" url="https://www.linkedin.com/in/orlin-velev-8885b963" name="Orlin Velev, ME" align="" %}
 </figure>
