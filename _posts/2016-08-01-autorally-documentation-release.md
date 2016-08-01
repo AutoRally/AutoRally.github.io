@@ -8,16 +8,20 @@ header:
 
 gallery:
   - url: croppedPlatform.jpg
-    alt: "placeholder image 1"
+  	image_path: croppedPlatform.jpg
+    alt: "AutoRally platform v1.1"
     title: "AutoRally platform"
   - url: chassisCover.jpg
-    alt: "placeholder image 2"
+  	image_path: chassisCover.jpg
+    alt: "AutoRally chassis"
     title: "Chassis"
   - url: computeBoxExterior.jpg
-    alt: "placeholder image 3"
+  	image_path: computeBoxExterior.jpg
+    alt: "AutoRally Mini-ITX compute box front"
     title: "Compute box, front view"
   - url: computeBoxExteriorBack.jpg
-    alt: "placeholder image 4"
+  	image_path: computeBoxExteriorBack.jpg
+    alt: "AutoRally Mini-ITX compute box back"
     title: "Compute box, back view"
 ---
 
