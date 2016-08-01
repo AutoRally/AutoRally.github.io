@@ -1,5 +1,5 @@
 ---
-title: "AutoRally Documentation v1.1 Release"
+title: "Documentation v1.1 Release"
 date: 2016-08-01
 excerpt: Complete build instructions and all supporting files are publicly available! 
 header:
