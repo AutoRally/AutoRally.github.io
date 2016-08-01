@@ -1,5 +1,5 @@
 ---
-title: "Documentation v1.1 Release"
+title: "Build Instructions v1.1"
 date: 2016-08-01
 excerpt: Complete build instructions and all supporting files are publicly available! 
 header:
@@ -32,8 +32,8 @@ We're excited to announce the release of AutoRally platform documentation v1.1 a
 - .stl files for 3D printing
 - .dxf files for fabricating parts.
 
-Send us pictures of your own AutoRally platforms to be featured on our website!
+Send us pictures of the AutoRally platforms you build to be featured on our website!
 
-We realize the documentation is not perfect, please contact us if you have any questions or comments.
+Please contact us if you have any questions or comments about the documentation.
 
 {% include gallery caption="AutoRally platform v1.1" class="full"%}
