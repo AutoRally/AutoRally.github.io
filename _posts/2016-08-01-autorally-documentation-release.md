@@ -3,14 +3,10 @@ title: "AutoRally Documentation v1.1 Release"
 date: 2016-08-01
 excerpt: Complete build instructions and all supporting files are publicly available! 
 header:
-  teaser: croppedPlatform.jpg
+  teaser: croppedPlatform_teaser.jpg
 
 
 gallery:
-  - url: croppedPlatform.jpg
-    image_path: croppedPlatform.jpg
-    alt: "AutoRally platform v1.1"
-    title: "AutoRally platform"
   - url: chassisCover.jpg
     image_path: chassisCover.jpg
     alt: "AutoRally chassis"
@@ -25,7 +21,7 @@ gallery:
     title: "Compute box, back view"
 ---
 
-{% include gallery caption="AutoRally platform v1.1" %}
+![im]({{ site.url }}{{ site.baseurl }}/images/croppedPlatform.jpg)
 
 We're excited to announce the release of AutoRally platform documentation v1.1 available on our [platform instructions repository]{https://github.com/AutoRally/autorally_platform_instructions}. This release includes everything you need to build your own AutoRally chassis:
 
@@ -39,3 +35,5 @@ We're excited to announce the release of AutoRally platform documentation v1.1 a
 Send us your pictures of your own AutoRally platforms to be featured on our website!
 
 We realize the documentation is not perfect, please contact us if you have any questions or comments.
+
+{% include gallery caption="AutoRally platform v1.1" class="full"%}
