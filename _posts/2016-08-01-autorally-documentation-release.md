@@ -23,7 +23,7 @@ gallery:
 
 ![im]({{ site.url }}{{ site.baseurl }}/images/croppedPlatform.jpg)
 
-We're excited to announce the release of AutoRally platform documentation v1.1 available on our [platform instructions repository]{https://github.com/AutoRally/autorally_platform_instructions}. This release includes everything you need to build your own AutoRally chassis:
+We're excited to announce the release of AutoRally platform documentation v1.1 available on our [platform instructions repository](https://github.com/AutoRally/autorally_platform_instructions). This release includes everything you need to build your own AutoRally chassis:
 
 - Autorally chassis and Mini-ITX compute box instruction documents
 - Operating procedures document
