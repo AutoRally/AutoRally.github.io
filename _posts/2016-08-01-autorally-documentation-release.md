@@ -32,7 +32,7 @@ We're excited to announce the release of AutoRally platform documentation v1.1 a
 - .stl files for 3D printing
 - .dxf files for fabricating parts.
 
-Send us your pictures of your own AutoRally platforms to be featured on our website!
+Send us pictures of your own AutoRally platforms to be featured on our website!
 
 We realize the documentation is not perfect, please contact us if you have any questions or comments.
 
