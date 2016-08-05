@@ -10,19 +10,20 @@ header:
 
 # Build your own AutoRally Platform
 
-The AutoRally platform is designed to be constructed by a small team of undergraduate or graduate students with engineering or computer science backgrounds. The current AutoRally platform (chassis + Mini-ITX compute box) can be constructed and configured in about 80 hours.
+The AutoRally platform is designed to be constructed by a small team of undergraduate or graduate students with engineering or computer science backgrounds. A complete platform comprised of a chassis and Mini-ITX compute box can be constructed and configured in about 100 hours.
 
-Documentation is separated into a few documents, all of which are contained in a two GitHub repositories with all supporting documents. 
+Documentation is separated into a few parts, all of which are contained in two GitHub repositories  along with all supplemental files. 
 
   * [Platform build instructions](https://github.com/AutoRally/autorally_platform_instructions)
     * Chassis instructions and supporting materials
-    * Mini-ITX compute box instructions and supporting materials (Coming soon)
+    * Mini-ITX compute box instructions and supporting materials
     * Complete parts list
-    * Operating Procedures (Coming soon)
+    * Operating Procedures
+    * Files for 3D printing and fabrication
   * [Code](https://github.com/AutoRally/autorally)
     * Core software to run the platform
-    * State estimator built with [GTSAM](https://collab.cc.gatech.edu/borg/) that fuses GPU and IMU measurements
+    * State estimator built with [GTSAM](https://collab.cc.gatech.edu/borg/) that fuses GPS and IMU measurements
     * GPS waypoint steering controller and constant velocity throttle controller
-    * Simulation environment with vehicle model
+    * Gazebo-based simulation environment with vehicle model
   * [Platform configuration instructions](https://github.com/AutoRally/autorally/wiki)
-    * Compute box setup information so the core software can communicate with a chassis
+    * Compute box setup information
