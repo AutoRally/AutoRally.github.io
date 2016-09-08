@@ -18,12 +18,11 @@ Documentation is separated into a few parts, all of which are contained in two G
     * Chassis instructions and supporting materials
     * Mini-ITX compute box instructions and supporting materials
     * Complete parts list
-    * Operating Procedures
     * Files for 3D printing and fabrication
-  * [Code](https://github.com/AutoRally/autorally)
+    * Operating Procedures
+  * [Code and software tutorials](https://github.com/AutoRally/autorally)
+    * [Platform configuration instructions](https://github.com/AutoRally/autorally/wiki) to configure a completed platform
     * Core software to run the platform
     * State estimator built with [GTSAM](https://collab.cc.gatech.edu/borg/) that fuses GPS and IMU measurements
     * GPS waypoint steering controller and constant velocity throttle controller
     * Gazebo-based simulation environment with vehicle model
-  * [Platform configuration instructions](https://github.com/AutoRally/autorally/wiki)
-    * Compute box setup information

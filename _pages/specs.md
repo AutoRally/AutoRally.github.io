@@ -63,4 +63,4 @@ permalink: /specs/
 </figure>
   * Gazebo-based
   * Identical ROS interface as physical robot
-  * Vehicle model paramters measured from physical robot
+  * Vehicle model parameters measured from physical robot
