@@ -33,7 +33,7 @@ gallery:
     image_path: autorally_platform_sequence_th.jpg
     alt: "placeholder image 8"
   - url: autorally_platform_jetson.jpg
-    image_path: autorally_platform_jetson.jpg
+    image_path: autorally_platforms.jpg
     alt: "placeholder image 9"
 
 gallery2:
@@ -44,13 +44,12 @@ gallery2:
     image_path: autorally_platform_jetson3.jpg
     alt: "placeholder image 11"
   - url: autorally_platforms.jpg
-    image_path: autorally_platforms.jpg
+    image_path: autorally_platform_jetson.jpg
     alt: "placeholder image 12"
 
 ---
 
 {% include gallery id="gallery" caption="" class="full" %}
-{% include gallery id="gallery2" caption="" class="full" %}
 
 <iframe width="1280" height="720" src="https://youtube.com/embed/1AR2-OHCxsQ" frameborder="0"></iframe>
 

@@ -17,7 +17,7 @@ permalink: /specs/
   * Derived from 1:5 scale RC truck
   * Off-the-shelf chassis modifications to support payload
   * Custom 3D printed mounts and enclosures
-  * 4s 6500mAh battery pair give typical run time of 3 hours, full-load run time 45 min
+  * 4s 6500mAh battery pair give typical run time of 1 hour, full-load run time 15 min
   * Seamless switching between autonomous and manual control using RC transmitter
   * Remote run stop disables motion in manual and autonomous modes
 
@@ -38,9 +38,6 @@ permalink: /specs/
   * Nvidia GTX 750ti GPU
   * WiFi and XBee communication
   * 6s 11000mAh battery gives typical run time of 3 hours, full-load run time 1 hour
-<figure style="width: 300px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/computeBoxInterior.jpg" alt="">
-</figure>
   * DC power supply
   * Dynamically switching power selection between internal battery and external power
   * Robust fabricated aluminum enclosure protects sensitive electronics from shock

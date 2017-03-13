@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "People"
+title: "Faculty and students involved with AutoRally"
 permalink: /people/
 author_profile: false
 
@@ -31,21 +31,20 @@ sidebar:
 </figure>
 <figure class="third">
 	{% include people-profile.html image="/images/people/kamil150150.jpg" url="" name="Kamil Saigol, Robotics" align="" %}
+	{% include people-profile.html image="/images/people/mpereira.jpg" url="" name="Marcus Pereira, AE" align="" %}
 </figure>
 
 <h3 class="page__subtitle">Masters</h3>
 
 <figure class="third">
-	{% include people-profile.html image="/images/people/mpereira.jpg" url="" name="Marcus Pereira, AE" align="" %}
+	{% include people-profile.html image="/images/people/mbarulic-277x277.jpg" url="http://barulicm.github.io/" name="Matt Barulic, CS" align="" %}
+	{% include people-profile.html image="/images/people/klee.jpg" url="https://www.linkedin.com/in/keuntaek-lee-7802ba100/" name="Keuntaek Lee, ECE" align="" %}
 </figure>
 
 <h3 class="page__subtitle">Undergraduate</h3>
+
 <figure class="third">
-	{% include people-profile.html image="/images/people/cbagwell.jpg" url="" name="Carden Bagwell, CS" align="" %}
-	{% include people-profile.html image="/images/people/mbarulic-277x277.jpg" url="http://barulicm.github.io/" name="Matt Barulic, CS" align="" %}
-	{% include people-profile.html image="/images/people/jmckendree.png" url="" name="Jeff McKendree, ME" align="" %}
-</figure>
-<figure class="third">
-	{% include people-profile.html image="/images/people/sselim.jpg" url="https://www.linkedin.com/in/sarah-selim-394512101" name="Sarah Selim, ME" align="" %}
+	{% include people-profile.html image="/images/people/pic.png" url="" name="Dominic Pattison, CS" align="" %}
 	{% include people-profile.html image="/images/people/ovelev.jpg" url="https://www.linkedin.com/in/orlin-velev-8885b963" name="Orlin Velev, ME" align="" %}
+	{% include people-profile.html image="/images/people/jzheng.jpg" url="https://https://www.linkedin.com/in/justin-z-391749a6/" name="Justin Zheng, CE" align="" %}
 </figure>
