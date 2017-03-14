@@ -23,7 +23,7 @@ gallery:
 
 ![im]({{ site.url }}{{ site.baseurl }}/images/v1.3.jpg)
 
-Version 1.3 of our AutoRally platform documentation is now available on the [platform instructions repository](https://github.com/AutoRally/autorally_platform_instructions). This release is incremental from version 1.1 and includes:
+Version 1.3 of our AutoRally platform documentation is now available on the [platform instructions repository](https://github.com/AutoRally/autorally_platform_instructions). This release is incremental and includes:
 
 - Cleanup and streamline of Chasis Instructions, Compute Box Instructions, Operating Procedures
 - Parts list cleanup
