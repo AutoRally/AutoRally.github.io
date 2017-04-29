@@ -46,5 +46,5 @@ sidebar:
 <figure class="third">
 	{% include people-profile.html image="/images/people/dpattison.jpg" url="http://www.prism.gatech.edu/~dpattison3/" name="Dominic Pattison, CS" align="" %}
 	{% include people-profile.html image="/images/people/ovelev.jpg" url="https://www.linkedin.com/in/orlin-velev-8885b963" name="Orlin Velev, ME" align="" %}
-	{% include people-profile.html image="/images/people/jzheng.jpg" url="https://https://www.linkedin.com/in/justin-z-391749a6/" name="Justin Zheng, CE" align="" %}
+	{% include people-profile.html image="/images/people/jzheng.jpg" url="https://www.linkedin.com/in/justin-z-391749a6/" name="Justin Zheng, CE" align="" %}
 </figure>
