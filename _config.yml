@@ -84,7 +84,6 @@ analytics:
 
 # Site Author
 author:
-<<<<<<< HEAD
   name             : "AutoRally Robot"
   avatar           : "autorally_platform_author_avatar.jpg"
   bio              : "A high-performance testbed for advanced perception and control research"
