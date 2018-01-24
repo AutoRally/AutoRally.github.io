@@ -19,7 +19,7 @@ sidebar:
 	{% include people-profile.html image="/images/people/boots.jpg" url="http://www.cc.gatech.edu/~bboots3/" name="Byron Boots" align="" %}
 </figure>
 
-<h3 class="page__subtitle">PhD Students</h3>
+<h3 class="page__subtitle">PhD</h3>
 
 <figure class="third">
 	{% include people-profile.html image="/images/people/bgoldfain-150x150.jpg" url="http://www.briangoldfain.com" name="Brian Goldfain, Robotics" align="" %}
