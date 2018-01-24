@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Faculty and students involved with AutoRally"
+title: "Current faculty and students involved with AutoRally"
 permalink: /people/
 author_profile: false
 
@@ -8,9 +8,6 @@ sidebar:
   nav: "about"
 
 ---
-
-<h2 class="page__title"> People</h2>
-
 <h3 class="page__subtitle">Professors</h3>
 
 <figure class="third">
