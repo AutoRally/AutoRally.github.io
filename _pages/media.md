@@ -8,32 +8,32 @@ sidebar:
   nav: "about"
 
 gallery:
-  - url: autorally_platform_gallery.jpg
-    image_path: autorally_platform_gallery.jpg
+  - url: images/autorally_platform_gallery.jpg
+    image_path: images/autorally_platform_gallery.jpg
     alt: "placeholder image 1"
-  - url: autorally_platform_gallery2.jpg
-    image_path: autorally_platform_gallery2.jpg
+  - url: images/autorally_platform_gallery2.jpg
+    image_path: images/autorally_platform_gallery2.jpg
     alt: "placeholder image 2"
-  - url: autorally_platform_gallery3.jpg
-    image_path: autorally_platform_gallery3_th.jpg
+  - url: images/autorally_platform_gallery3.jpg
+    image_path: images/autorally_platform_gallery3_th.jpg
     alt: "placeholder gallery 3"
-  - url: autorally_platform_twowheels.jpg
-    image_path: autorally_platform_twowheels.jpg
+  - url: images/autorally_platform_twowheels.jpg
+    image_path: images/autorally_platform_twowheels.jpg
     alt: "placeholder image 4"
-  - url: autorally_platform_muddy.jpg
-    image_path: autorally_platform_muddy.jpg
+  - url: images/autorally_platform_muddy.jpg
+    image_path: images/autorally_platform_muddy.jpg
     alt: "placeholder image 5"
-  - url: autorally_platform_nobody.jpg
-    image_path: autorally_platform_nobody.jpg
+  - url: images/autorally_platform_nobody.jpg
+    image_path: images/autorally_platform_nobody.jpg
     alt: "placeholder image 6"
-  - url: GT_autonomous_racing_facility.jpg
-    image_path: GT_autonomous_racing_facility_th.jpg
+  - url: images/GT_autonomous_racing_facility.jpg
+    image_path: images/GT_autonomous_racing_facility_th.jpg
     alt: "placeholder image 7"
-  - url: autorally_platform_sequence.jpg
-    image_path: autorally_platform_sequence_th.jpg
+  - url: images/autorally_platform_sequence.jpg
+    image_path: images/autorally_platform_sequence_th.jpg
     alt: "placeholder image 8"
-  - url: autorally_platform_jetson.jpg
-    image_path: autorally_platforms.jpg
+  - url: images/autorally_platform_jetson.jpg
+    image_path: images/autorally_platforms.jpg
     alt: "placeholder image 9"
 
 gallery2:
