@@ -37,14 +37,14 @@ gallery:
     alt: "placeholder image 9"
 
 gallery2:
-  - url: autorally_platform_jetson2.jpg
-    image_path: autorally_platform_jetson2.jpg
+  - url: images/autorally_platform_jetson2.jpg
+    image_path: images/autorally_platform_jetson2.jpg
     alt: "placeholder image 10"
-  - url: autorally_platform_jetson3.jpg
-    image_path: autorally_platform_jetson3.jpg
+  - url: images/autorally_platform_jetson3.jpg
+    image_path: images/autorally_platform_jetson3.jpg
     alt: "placeholder image 11"
-  - url: autorally_platforms.jpg
-    image_path: autorally_platform_jetson.jpg
+  - url: images/autorally_platforms.jpg
+    image_path: images/autorally_platform_jetson.jpg
     alt: "placeholder image 12"
 
 ---

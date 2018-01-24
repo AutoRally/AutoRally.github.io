@@ -178,27 +178,6 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -263,7 +242,6 @@ compress_html:
   ignore:
     envs: development
 
-
 # Defaults
 defaults:
   # _posts
@@ -276,4 +254,11 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true
+      related: false
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
