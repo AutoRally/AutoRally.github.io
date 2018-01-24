@@ -25,7 +25,7 @@ The core software and simulation environment for the platform are publicly avail
 
 <h2 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }}</h2>
 
-{% for post in paginator.posts paginate:8 %}
+{% for post in paginator.posts paginate:4 %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
 
