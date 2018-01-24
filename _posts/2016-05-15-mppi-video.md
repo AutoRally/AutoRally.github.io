@@ -3,7 +3,7 @@ title: "MPPI Explanation Video"
 date: 2016-5-15
 excerpt: Experimental results and explanation of the MPPI algorithm on the AutoRally platform 
 header:
-  teaser: mages/IEEE_Spectrum_teaser.gif
+  teaser: images/IEEE_Spectrum_teaser.gif
 
 ---
 
