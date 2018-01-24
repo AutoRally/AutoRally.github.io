@@ -2,18 +2,24 @@
 main:
   - title: "Platform Specs"
     url: /specs/
-  
+
+  - title: "GT-ARF"
+    url: /gtarf/
+
   - title: "Build Your Own"
-    url: /build/
+    url: https://github.com/AutoRally/autorally_platform_instructions
+
+  - title: "Code"
+    url: https://github.com/AutoRally/autorally
+
+  - title: "Dataset"
+    url: https://www.dropbox.com/sh/pxbqfuxz5bi76ii/AACNDJfA0Y_fJhCeJWxbAveva?dl=0
 
   - title: "Posts"
     url: /year-archive/
 
   - title: "About"
     url: /media/
-
-  - title: "Code"
-    url: https://github.com/AutoRally/autorally
 
 about:
   - title: "About"
