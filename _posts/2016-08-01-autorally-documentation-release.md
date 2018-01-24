@@ -3,7 +3,7 @@ title: "Build Instructions v1.1"
 date: 2016-08-01
 excerpt: Complete build instructions and all supporting files are publicly available! 
 header:
-  teaser: croppedPlatform_teaser.jpg
+  teaser: images/croppedPlatform_teaser.jpg
 
 
 gallery:

@@ -3,7 +3,7 @@ title: "Build Instructions v1.3"
 date: 2017-03-13
 excerpt: Improvements and minor updates to AutoRally Platform documentation
 header:
-  teaser: v1.3_teaser.jpg
+  teaser: images/v1.3_teaser.jpg
 
 
 gallery:
