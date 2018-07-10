@@ -29,6 +29,7 @@ sidebar:
 <figure class="third">
 	{% include people-profile.html image="/images/people/kamil150150.jpg" url="" name="Kamil Saigol, Robotics" align="" %}
 	{% include people-profile.html image="/images/people/klee.jpg" url="https://www.linkedin.com/in/keuntaek-lee-7802ba100/" name="Keuntaek Lee, ECE" align="" %}
+	{% include people-profile.html image="/images/people/nwagener.jpg" url="" name="Nolan Wagener, Robotics" align="" %}
 </figure>
 
 <h3 class="page__subtitle">Masters</h3>
