@@ -86,10 +86,10 @@ analytics:
 author:
   name             : "AutoRally Robot"
   avatar           : "images/autorally_platform_author_avatar.jpg"
-  bio              : "A high-performance testbed for advanced perception and control research"
+  bio              : "A high-performance testbed for self-driving vehicle research"
   location         : "Atlanta, GA"
   email            : bgoldfain3@gatech.edu
-  uri              : http://rehg.org/autorally/
+  uri              : 
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
