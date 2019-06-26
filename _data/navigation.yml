@@ -25,6 +25,8 @@ about:
   - title: "About"
     url:
     children:
+      - title: "Project History"
+        url: /history/
       - title: "Media"
         url: /media/
       - title: "People"
