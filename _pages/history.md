@@ -32,8 +32,10 @@ The first high-speed autonomous driving tests were conducted through a collabora
 
 Over several iterations, AutoRally was refined to support a broad range of autonomous vehicle experiments with the supervision of Brian Goldfain. Additional PhD students who contributed to the design include Kamil Saigol and Marcus Pereira. A mostly complete list of undergraduates who contributed to the design include Cory Wacht, Matt Barulic, Orlin Velev, Sarah Selim, Dominic Pattison, Justin Zheng, Luis Pimentel, Alexandra Miner, and Jason Gibson. The current version of AutoRally is shown below.
 
+This work was made possible, in part, by the U.S. Army Research Office (ARO) through the Multidisciplinary University Research Initiative (MURI) award W911NF-11-1-0046 and Defense University Research Instrumentation Program (DURIP) awards W911NF-12-1-0377 and Office of Naval Research (ONR) DURIP N00014-17-1-2318.
+
 {% include gallery id="currentAutorally" caption="" class="full" %}
 
-Additional collaborations have resulted in the expansion of the AutoRally fleet to 6 vehicles at Georgia Tech. The fleet has supported the experimental results of numerous publications with collaborations from the labs of Panagiotis Tsiotras and Byron Boots.
+Additional collaborations have expanded the AutoRally fleet to 6 vehicles at Georgia Tech. The fleet has supported the experimental results of numerous publications with cresearch from the labs of James Rehg, Evangleos Theodorou, Byron Boots, and Panagiotis Tsiotras. PhD students, not already listed, who have used the platform for experiments include Nolan Wagener, Yunpeng Pan, Keuntaek Lee, and Changxi You.
 
 
