@@ -1,4 +1,4 @@
-cresearch---
+---
 layout: single
 title: "AutoRally Project History"
 permalink: /history/
