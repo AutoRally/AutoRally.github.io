@@ -18,6 +18,9 @@ main:
   - title: "Posts"
     url: /year-archive/
 
+  - title: "People"
+    url: /people/
+
   - title: "About"
     url: /history/
 
@@ -29,7 +32,5 @@ about:
         url: /history/
       - title: "Media"
         url: /media/
-      - title: "People"
-        url: /people/
       - title: "Recent Press"
         url: /recentpress/

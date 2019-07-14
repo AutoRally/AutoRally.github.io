@@ -1,11 +1,7 @@
 ---
 layout: single
-title: "Current faculty and students involved with AutoRally"
+title: "AutoRally Project Members"
 permalink: /people/
-author_profile: false
-
-sidebar:
-  nav: "about"
 
 ---
 <h3 class="page__subtitle">Professors</h3>
@@ -14,9 +10,6 @@ sidebar:
 	{% include people-profile.html image="/images/people/rehg.png" url="http://rehg.org/" name="James Rehg" align="" %}
 	{% include people-profile.html image="/images/people/tsiotras.jpg" url="http://soliton.ae.gatech.edu/people/ptsiotra/" name="Panagiotis Tsiotras" align="" %}
 	{% include people-profile.html image="/images/people/theodorou.jpg" url="http://acds-lab.gatech.edu/" name="Evangelos Theodorou" align="" %}
-</figure>
-<figure class="third">
-	{% include people-profile.html image="/images/people/boots.jpg" url="http://www.cc.gatech.edu/~bboots3/" name="Byron Boots" align="" %}
 </figure>
 
 <h3 class="page__subtitle">PhD</h3>
@@ -48,4 +41,6 @@ sidebar:
 
 <figure class="third">
 	{% include people-profile.html image="/images/people/jzheng.jpg" url="https://www.linkedin.com/in/justin-z-391749a6/" name="Justin Zheng, CE" align="" %}
+	{% include people-profile.html image="/images/people/mbarulic-277x277.jpg" url="https://www.linkedin.com/in/mattbarulic/" name="Matthew Barulic, CS" align="" %}
+	{% include people-profile.html image="/images/people/sselim.jpg" url="https://www.linkedin.com/in/sarah-selim/" name="Sarah Selim, AE" align="" %}
 </figure>

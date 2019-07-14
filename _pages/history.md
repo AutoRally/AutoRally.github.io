@@ -1,4 +1,4 @@
----
+cresearch---
 layout: single
 title: "AutoRally Project History"
 permalink: /history/
@@ -24,7 +24,7 @@ currentAutorally:
     alt: "current AutoRally platform"
 ---
 
-The AutoRally project began in 2011 to support a DURIP grant for vision-based high-speed autonomous navigation. The original platform was devloped by PhD student Brian Goldfain and Paul Drews, with help from masters student Rahul Ashok and supervision from professor James Rehg. A picture of the original AutoRally Platform is shown below.
+The AutoRally project began in 2011 to support a DURIP grant for vision-based high-speed autonomous navigation. The original platform was developed by PhD student Brian Goldfain and Paul Drews, with help from masters student Rahul Ashok and supervision from professor James Rehg. A picture of the original AutoRally Platform is shown below.
 
 {% include gallery id="ogAutorally" caption="" class="full" %}
 
@@ -36,6 +36,6 @@ This work was made possible, in part, by the U.S. Army Research Office (ARO) thr
 
 {% include gallery id="currentAutorally" caption="" class="full" %}
 
-Additional collaborations have expanded the AutoRally fleet to 6 vehicles at Georgia Tech. The fleet has supported the experimental results of numerous publications with cresearch from the labs of James Rehg, Evangleos Theodorou, Byron Boots, and Panagiotis Tsiotras. PhD students, not already listed, who have used the platform for experiments include Nolan Wagener, Yunpeng Pan, Keuntaek Lee, and Changxi You.
+Additional collaborations have expanded the AutoRally fleet to 6 vehicles at Georgia Tech. The fleet has supported the experimental results of numerous publications with research from the labs of James Rehg, Evangleos Theodorou, Byron Boots, and Panagiotis Tsiotras. PhD students, not already listed, who have used the platform for experiments include Nolan Wagener, Yunpeng Pan, Keuntaek Lee, and Changxi You.
 
 
