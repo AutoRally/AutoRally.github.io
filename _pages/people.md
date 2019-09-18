@@ -12,10 +12,11 @@ permalink: /people/
 	{% include people-profile.html image="/images/people/theodorou.jpg" url="http://acds-lab.gatech.edu/" name="Evangelos Theodorou" align="" %}
 </figure>
 
-<h3 class="page__subtitle">PhD</h3>
+<h3 class="page__subtitle">PhDs</h3>
 
 <figure class="third">
 	{% include people-profile.html image="/images/people/klee.jpg" url="https://www.linkedin.com/in/keuntaek-lee-7802ba100/" name="Keuntaek Lee, ECE" align="" %}
+	{% include people-profile.html image="/images/people/nwagener.jpg" name="Nolan Wagener, ECE" align="" %}
 </figure>
 
 <h3 class="page__subtitle">Masters</h3>
@@ -25,7 +26,7 @@ permalink: /people/
 </figure>
 
 <h3 class="page__subtitle">Previous Members</h3>
-<h3 class="page__subtitle">PhD</h3>
+<h3 class="page__subtitle">PhDs</h3>
 
 <figure class="third">
 	{% include people-profile.html image="/images/people/bgoldfain-150x150.jpg" url="http://www.briangoldfain.com" name="Brian Goldfain, Robotics" align="" %}
@@ -37,7 +38,7 @@ permalink: /people/
 </figure>
 
 
-<h3 class="page__subtitle">Undergraduate</h3>
+<h3 class="page__subtitle">Undergraduates</h3>
 
 <figure class="third">
 	{% include people-profile.html image="/images/people/aminer.jpg" url="https://www.linkedin.com/in/alexandra-miner-75085b145/" name="Alex Miner, AE" align="" %}
